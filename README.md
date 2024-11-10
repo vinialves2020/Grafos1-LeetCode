@@ -25,15 +25,15 @@ Realização de exercícios da plataforma de juiz eletrônico LeetCode
 ## Screenshots
 ### Problema 695
 
-![Questão 695 aceita](./imagens/695.png)
+![Questão 695 aceita](./Imagens/695.png)
 
 ### Problema 124
 
-![Questão  124 aceita](./imagens/124.png)
+![Questão  124 aceita](./Imagens/124.png)
 
 ## Problema 127
 
-![Questão 127 aceita](./imagens/127.png)
+![Questão 127 aceita](./Imagens/127.png)
 
 ## Instalação 
 **Linguagem**: Python<br>
